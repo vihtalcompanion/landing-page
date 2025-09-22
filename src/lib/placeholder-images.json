@@ -1,0 +1,16 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-image",
+      "description": "Manos unidas sosteniendo lazos rojos, en apoyo a la concientización sobre el VIH.",
+      "imageUrl": "/images/hero-image.jpg",
+      "imageHint": "hands holding red ribbons"
+    },
+    {
+      "id": "project-details-hero",
+      "description": "Manos unidas en horizontal",
+      "imageUrl": "/images/hands-horizontal.png",
+      "imageHint": "community support"
+    }
+  ]
+}

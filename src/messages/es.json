@@ -1,0 +1,130 @@
+{
+  "Header": {
+    "about": "Acerca de",
+    "funding": "Financiamiento",
+    "impact": "Impacto",
+    "updates": "Actualizaciones",
+    "donate": "Dona ahora",
+    "appName": "VIHTal Companion"
+  },
+  "Hero": {
+    "title": "Una nueva esperanza contra el VIH: IA y apoyo humano para un cuidado seguro y privado",
+    "subtitle": "Mi nombre es Joshua Hernández y estoy desarrollando una aplicación móvil para brindar orientación confidencial para la prevención, detección y tratamiento del VIH. Tu contribución puede ayudar a salvar vidas.",
+    "button": "Apoya nuestra misión"
+  },
+  "About": {
+    "title": "Qué necesitamos y qué obtienes",
+    "subtitle": "Estamos buscando ${goal} para desarrollar y lanzar la primera versión de VIHTal Companion.",
+    "fundUse": "Uso de los fondos",
+    "fundAllocation": {
+      "development": {
+        "title": "Desarrollo de la aplicación",
+        "details": "Backend, integración de IA, diseño de frontend"
+      },
+      "content": {
+        "title": "Creación y validación de contenido",
+        "details": "Recursos médicos, moderación de la comunidad"
+      },
+      "security": {
+        "title": "Seguridad y privacidad",
+        "details": "Cifrado de datos, almacenamiento seguro"
+      },
+      "testing": {
+        "title": "Pruebas y optimización de UX",
+        "details": "Optimización de la experiencia del usuario"
+      },
+      "marketing": {
+        "title": "Marketing y divulgación",
+        "details": "Alcance comunitario"
+      }
+    }
+  },
+  "Funding": {
+    "title": "Únete a la campaña",
+    "subtitle": "Tu contribución, grande o pequeña, tendrá un impacto tangible.",
+    "raisedOf": "recaudados de {goal}",
+    "disclaimer": "Incluso si no alcanzamos la meta completa, tu contribución ayudará a financiar componentes críticos.",
+    "tiers": {
+      "supporter": {
+        "name": "Patrocinador",
+        "perks": ["Reconocimiento en los créditos de lanzamiento"]
+      },
+      "advocate": {
+        "name": "Defensor",
+        "perks": ["Reconocimiento en los créditos de lanzamiento", "Acceso anticipado a la aplicación"]
+      },
+      "champion": {
+        "name": "Campeón",
+        "perks": ["Reconocimiento en los créditos de lanzamiento", "Acceso anticipado a la aplicación", "Invitación a pruebas beta"]
+      },
+      "founder": {
+        "name": "Círculo de Fundadores",
+        "perks": ["Todos los beneficios anteriores", "Nota de agradecimiento personal del fundador"]
+      }
+    }
+  },
+  "EarlyAccess": {
+    "exclusive": "Beneficio exclusivo",
+    "title": "Obtén acceso anticipado a las funciones Premium",
+    "description": "Como agradecimiento especial a los patrocinadores de nuestra campaña, todos los donantes recibirán acceso anticipado exclusivo a nuestras funciones premium antes de que se lancen al público. Sé el primero en experimentar todo el poder de VIHTal Companion y ayuda a dar forma a su futuro."
+  },
+  "Impact": {
+    "title": "El impacto que lograrás",
+    "description": "Tu apoyo marcará una diferencia real. VIHTal Companion es una solución innovadora que combina orientación impulsada por IA, apoyo humano y herramientas gamificadas, una primicia para Venezuela y América Latina. Al contribuir, ayudas a mejorar los resultados de salud, empoderar a las personas y reducir el estigma del VIH donde más se necesita.",
+    "points": {
+      "safe": {
+        "title": "Seguro y accesible",
+        "description": "Proporcionar una plataforma segura y empática para que las personas obtengan información precisa sobre el VIH."
+      },
+      "empower": {
+        "title": "Empoderar a las personas",
+        "description": "Permitir a los usuarios realizar un seguimiento de la adherencia a la medicación y tomar el control de su viaje de salud."
+      },
+      "community": {
+        "title": "Construir comunidad",
+        "description": "Conectar a los usuarios con comunidades de apoyo para reducir el estigma y el aislamiento."
+      }
+    },
+    "storiesTitle": "Historias de esperanza",
+    "storyTopics": {
+      "access": "Sobre el acceso a la información",
+      "community": "Sobre el apoyo comunitario",
+      "health": "Sobre mantenerse saludable"
+    },
+    "storyFallback": "La comunidad tiene grandes esperanzas en este proyecto. El acceso a información y apoyo confiables es crucial para los afectados por el VIH en Venezuela. Esta aplicación promete ser un salvavidas."
+  },
+  "Subscription": {
+    "title": "Mantente actualizado sobre nuestro viaje",
+    "description": "Suscríbete a nuestro boletín para recibir las últimas noticias, actualizaciones de progreso y anuncios de lanzamiento directamente en tu bandeja de entrada.",
+    "placeholder": "Ingresa tu correo electrónico",
+    "button": "Suscribirse",
+    "loading": "Suscribiendo...",
+    "successTitle": "¡Suscripción exitosa!",
+    "successDescription": "Gracias por suscribirte. Te mantendremos informado.",
+    "errorTitle": "Error en la suscripción",
+    "errorDescription": "Algo salió mal. Por favor, inténtalo de nuevo más tarde."
+  },
+  "DonateCTA": {
+    "title": "Conviértete en un patrocinador",
+    "description": "Para demostrar nuestra personalización de IA, selecciona un perfil de visitante para ver un mensaje personalizado solo para ti.",
+    "profiles": {
+      "new": "Nuevo visitante",
+      "returning": "Visitante recurrente",
+      "engaged": "Patrocinador comprometido"
+    },
+    "button": "Donar con PayPal",
+    "redirect": "(Serás redirigido a una página segura de PayPal)"
+  },
+  "Contact": {
+    "title": "Contáctanos",
+    "description": "¿Tienes preguntas o quieres participar? Nos encantaría saber de ti."
+  },
+  "Footer": {
+    "text": "VIHTal Companion. Un proyecto de Joshua Hernández."
+  },
+  "LanguageSwitcher": {
+    "label": "Cambiar idioma",
+    "en": "Inglés",
+    "es": "Español"
+  }
+}

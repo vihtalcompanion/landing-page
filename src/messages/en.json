@@ -1,0 +1,130 @@
+{
+  "Header": {
+    "about": "About",
+    "funding": "Funding",
+    "impact": "Impact",
+    "updates": "Updates",
+    "donate": "Donate Now",
+    "appName": "VIHTal Companion"
+  },
+  "Hero": {
+    "title": "A new hope against HIV: AI and human support for safe and private care",
+    "subtitle": "My name is Joshua Hernandez, and I'm developing a mobile app to provide confidential guidance for HIV prevention, detection, and treatment. Your contribution can help save lives.",
+    "button": "Support Our Mission"
+  },
+  "About": {
+    "title": "What We Need & What You Get",
+    "subtitle": "We are seeking ${goal} to develop and launch the first version of VIHTal Companion.",
+    "fundUse": "Use of Funds",
+    "fundAllocation": {
+      "development": {
+        "title": "App development",
+        "details": "Backend, AI integration, frontend design"
+      },
+      "content": {
+        "title": "Content creation & validation",
+        "details": "Medical resources, community moderation"
+      },
+      "security": {
+        "title": "Security & privacy",
+        "details": "Data encryption, secure storage"
+      },
+      "testing": {
+        "title": "Testing & UX optimization",
+        "details": "User experience optimization"
+      },
+      "marketing": {
+        "title": "Marketing & outreach",
+        "details": "Community outreach"
+      }
+    }
+  },
+  "Funding": {
+    "title": "Join the Campaign",
+    "subtitle": "Your contribution, big or small, will make a tangible impact.",
+    "raisedOf": "raised of {goal}",
+    "disclaimer": "Even if we don’t reach the full goal, your contribution will still help fund critical components.",
+    "tiers": {
+      "supporter": {
+        "name": "Supporter",
+        "perks": ["Recognition in launch credits"]
+      },
+      "advocate": {
+        "name": "Advocate",
+        "perks": ["Recognition in launch credits", "Early access to the app"]
+      },
+      "champion": {
+        "name": "Champion",
+        "perks": ["Recognition in launch credits", "Early access to the app", "Invitation to beta testing"]
+      },
+      "founder": {
+        "name": "Founder's Circle",
+        "perks": ["All previous perks", "Personal thank-you note from the founder"]
+      }
+    }
+  },
+  "EarlyAccess": {
+    "exclusive": "Exclusive Benefit",
+    "title": "Get Early Access to Premium Features",
+    "description": "As a special thank you to our campaign supporters, all donors will receive exclusive early access to our premium features before they are released to the public. Be the first to experience the full power of VIHTal Companion and help shape its future."
+  },
+  "Impact": {
+    "title": "The Impact You'll Make",
+    "description": "Your support will make a real difference. VIHTal Companion is an innovative solution combining AI-driven guidance, human support, and gamified tools—a first for Venezuela and Latin America. By contributing, you help improve health outcomes, empower individuals, and reduce HIV stigma where it's needed most.",
+    "points": {
+      "safe": {
+        "title": "Safe & Accessible",
+        "description": "Provide a secure and empathetic platform for people to get accurate HIV information."
+      },
+      "empower": {
+        "title": "Empower Individuals",
+        "description": "Enable users to track medication adherence and take control of their health journey."
+      },
+      "community": {
+        "title": "Build Community",
+        "description": "Connect users with supportive communities to reduce stigma and isolation."
+      }
+    },
+    "storiesTitle": "Stories of Hope",
+    "storyTopics": {
+      "access": "On Accessing Information",
+      "community": "On Community Support",
+      "health": "On Staying Healthy"
+    },
+    "storyFallback": "The community has high hopes for this project. Access to reliable information and support is crucial for those affected by HIV in Venezuela. This app promises to be a lifeline."
+  },
+  "Subscription": {
+    "title": "Stay Updated on Our Journey",
+    "description": "Subscribe to our newsletter to receive the latest news, progress updates, and launch announcements directly in your inbox.",
+    "placeholder": "Enter your email",
+    "button": "Subscribe",
+    "loading": "Subscribing...",
+    "successTitle": "Subscription Successful!",
+    "successDescription": "Thanks for subscribing. We'll keep you updated.",
+    "errorTitle": "Subscription Failed",
+    "errorDescription": "Something went wrong. Please try again later."
+  },
+  "DonateCTA": {
+    "title": "Become a Supporter",
+    "description": "To demonstrate our AI personalization, select a visitor profile to see a custom message just for you.",
+    "profiles": {
+      "new": "New Visitor",
+      "returning": "Returning Visitor",
+      "engaged": "Engaged Supporter"
+    },
+    "button": "Donate with PayPal",
+    "redirect": "(You will be redirected to a secure PayPal page)"
+  },
+  "Contact": {
+    "title": "Contact Us",
+    "description": "Have questions or want to get involved? We'd love to hear from you."
+  },
+  "Footer": {
+    "text": "VIHTal Companion. A project by Joshua Hernandez."
+  },
+  "LanguageSwitcher": {
+    "label": "Toggle language",
+    "en": "English",
+    "es": "Español"
+  }
+}
